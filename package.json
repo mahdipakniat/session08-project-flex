@@ -1,0 +1,15 @@
+{
+  "name": "project08",
+  "version": "1.0.0",
+  "description": "this is the first design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahdi Pakniat",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "live-server": "^1.2.2"
+  }
+}
